@@ -1,5 +1,5 @@
 # my-profile
-All project about FrontEnd
+All project about WEB Develop
 RWD website with personal file、travel web and two little game
 ![螢幕擷取畫面 2023-03-28 212826](https://user-images.githubusercontent.com/111333990/228253033-5b3bf131-e3a5-4e9f-9ff3-34dc2ce6367f.png)
 ![螢幕擷取畫面 2023-03-28 212906](https://user-images.githubusercontent.com/111333990/228253491-36b6799e-017c-4aa8-9481-fd975274d430.png)
